@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/phillipedwards/pulumi-notes v0.0.4
 	github.com/pulumi/pulumi-aws/sdk/v5 v5.30.0
-	github.com/pulumi/pulumi-random/sdk/v4 v4.12.0
+	github.com/pulumi/pulumi-random/sdk/v4 v4.8.2
 	github.com/pulumi/pulumi/sdk/v3 v3.55.0
 )
 
